@@ -9,7 +9,7 @@ Tools Used: Python's numpy library to generate random values.
 General Data Cleaning:
 Checked for missing values and handled them appropriately.
 Removed duplicate entries to ensure data integrity.
-Renamed column headers (if necessary) to standardize the format for ease of analysis.
+Renamed column headers  to standardize the format for ease of analysis.
 
 Analysis Tasks:
 1. Distribution of Employees Across Teams:-
